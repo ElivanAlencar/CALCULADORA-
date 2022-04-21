@@ -22,15 +22,15 @@ button {
 }
 
 .mais {
-    grid-row: 5/7;
-    grid-column: 4/5;
+    grid-row: 4/8;
+    grid-column: 4/4;
     background-color: #c9c2c2;
     border: none;
     border: solid 1px black;
 }
 
 .zero {
-    grid-column: 1/3;
+    grid-row: 8/6;
     background-color: #c9c2c2;
     border: none;
     border: solid 1px black;
